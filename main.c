@@ -1,10 +1,10 @@
 #include<stdio.h>
 void main()
 {
-for(int i=0;i<10;i++0)
+for(int j=0;j<10;j++0)
 {
 printf("hello %d\n",i);
 printf("word\n");
-printf("how are you");
+printf("how are you\n");
 }
 }
